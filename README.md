@@ -4,7 +4,13 @@ Repository holding configuration files for the Technical stage Space in Batterse
 
 ## Dependancies
 
-For the [Reaper Templates](Templates/Reaper/)
+For the [Max templates](Templates/Max/)
+
++ [Max 8+](https://cycling74.com/downloads)
++ [Spat5](https://forum.ircam.fr/projects/detail/spat/)
+  + [Useful Info](https://discussion.forum.ircam.fr/t/spat-5-for-max-read-this-first/21628)
+
+For the [Reaper templates](Templates/Reaper/)
 
 + [Reaper](https://www.reaper.fm/download.php)
 + [IEM Plugin Suite](https://plugins.iem.at/download/)
